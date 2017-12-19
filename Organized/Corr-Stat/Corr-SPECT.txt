@@ -1,0 +1,8 @@
+Train data size is: 213
+Test data size is: 54
+Original feature amount is: 22
+The average corr-coef of this dataset is: 0.2236653316706822
+The std corr-coef of this dataset is: 0.05858984788609307
+The max corr-coef of this dataset is: 0.39852824649723106
+The min corr-coef of this dataset is: 0.13202274158237737
+

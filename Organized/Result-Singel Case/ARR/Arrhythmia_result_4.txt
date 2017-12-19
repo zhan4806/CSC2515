@@ -1,0 +1,56 @@
+Train data size is: 354
+Test data size is: 89
+Original feature amount is: 279
+Sparse value rate is: 0.003281853281853282
+Hybrid: Corr + SBFS starts:
+Corr-Coef threshold is: 0.1, 67 features left.
+The best Sequential Backward Floating Selection model contains 4 features. Best model is SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.748587570621469
+SVM Classifier train loss = 0.2514124293785311
+SVM Classifier test accuracy = 0.6179775280898876
+SVM Classifier test loss = 0.38202247191011235
+Execution time is: 17377.940727472305 seconds.
+
+Corr-Coef threshold is: 0.2, 8 features left.
+The best Sequential Backward Floating Selection model contains 3 features. Best model is SVC(C=100.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.655367231638418
+SVM Classifier train loss = 0.3446327683615819
+SVM Classifier test accuracy = 0.5730337078651685
+SVM Classifier test loss = 0.42696629213483145
+Execution time is: 146.01490998268127 seconds.
+
+Corr-Coef threshold is: 0.30000000000000004, 3 features left.
+The best Sequential Backward Floating Selection model contains 2 features. Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.6412429378531074
+SVM Classifier train loss = 0.3587570621468927
+SVM Classifier test accuracy = 0.5730337078651685
+SVM Classifier test loss = 0.42696629213483145
+Execution time is: 7.438476085662842 seconds.
+
+Corr-Coef threshold is: 0.4, 0 features left.
+Execution time is: 0.10989093780517578 seconds.
+
+Corr-Coef threshold is: 0.5, 0 features left.
+Execution time is: 0.14239001274108887 seconds.
+
+Corr-Coef threshold is: 0.6, 0 features left.
+Execution time is: 0.12571287155151367 seconds.
+
+Corr-Coef threshold is: 0.7000000000000001, 0 features left.
+Execution time is: 0.1255965232849121 seconds.
+
+Corr-Coef threshold is: 0.8, 0 features left.
+Execution time is: 0.10753726959228516 seconds.
+
+Corr-Coef threshold is: 0.9, 0 features left.
+Execution time is: 0.17346835136413574 seconds.
+

@@ -1,0 +1,56 @@
+Train data size is: 354
+Test data size is: 89
+Original feature amount is: 279
+Sparse value rate is: 0.003281853281853282
+Hybrid: Corr + SBS starts:
+Corr-Coef threshold is: 0.1, 67 features left.
+The best Sequential Backward Elimination model contains 2 features. Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.6214689265536724
+SVM Classifier train loss = 0.3785310734463277
+SVM Classifier test accuracy = 0.5056179775280899
+SVM Classifier test loss = 0.4943820224719101
+Execution time is: 9136.752984762192 seconds.
+
+Corr-Coef threshold is: 0.2, 8 features left.
+The best Sequential Backward Elimination model contains 1 features. Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.6214689265536724
+SVM Classifier train loss = 0.3785310734463277
+SVM Classifier test accuracy = 0.5955056179775281
+SVM Classifier test loss = 0.4044943820224719
+Execution time is: 93.05464625358582 seconds.
+
+Corr-Coef threshold is: 0.30000000000000004, 3 features left.
+The best Sequential Backward Elimination model contains 2 features. Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.6412429378531074
+SVM Classifier train loss = 0.3587570621468927
+SVM Classifier test accuracy = 0.5730337078651685
+SVM Classifier test loss = 0.42696629213483145
+Execution time is: 6.483903408050537 seconds.
+
+Corr-Coef threshold is: 0.4, 0 features left.
+Execution time is: 0.10799050331115723 seconds.
+
+Corr-Coef threshold is: 0.5, 0 features left.
+Execution time is: 0.2009279727935791 seconds.
+
+Corr-Coef threshold is: 0.6, 0 features left.
+Execution time is: 0.1804802417755127 seconds.
+
+Corr-Coef threshold is: 0.7000000000000001, 0 features left.
+Execution time is: 0.12450861930847168 seconds.
+
+Corr-Coef threshold is: 0.8, 0 features left.
+Execution time is: 0.1114659309387207 seconds.
+
+Corr-Coef threshold is: 0.9, 0 features left.
+Execution time is: 0.12338924407958984 seconds.
+

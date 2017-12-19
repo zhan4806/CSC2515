@@ -1,0 +1,19 @@
+Train data size is: 864
+Test data size is: 216
+Original feature amount is: 856
+Sparse value rate is: 0.9921925007852835
+The best classifier is: SVC(C=100.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVM Classifier train accuracy = 0.9895833333333334
+SVM Classifier train loss = 0.010416666666666666
+SVM Classifier test accuracy = 0.9629629629629629
+SVM Classifier test loss = 0.037037037037037035
+Execution time is: 20.0843768119812 seconds.
+
+The average corr-coef of this dataset is: 0.04726244985122746
+The std corr-coef of this dataset is: 0.054190745272718166
+The max corr-coef of this dataset is: 0.45679153565822733
+The min corr-coef of this dataset is: 0.0
+

@@ -1,0 +1,71 @@
+Train data size is: 100
+Test data size is: 26
+Original feature amount is: 310
+Hybrid: Corr + SBFS starts:
+Corr-Coef threshold is: 0.1, 237 features left.
+The best Sequential Backward Floating Selection model contains 16 features. Best model is SVC(C=100.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 1.0
+SVM Classifier train loss = 0.0
+SVM Classifier test accuracy = 0.7692307692307693
+SVM Classifier test loss = 0.23076923076923078
+Execution time is: 32991.87790060043 seconds.
+
+Corr-Coef threshold is: 0.2, 92 features left.
+The best Sequential Backward Floating Selection model contains 31 features. Best model is SVC(C=100.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 1.0
+SVM Classifier train loss = 0.0
+SVM Classifier test accuracy = 0.6923076923076923
+SVM Classifier test loss = 0.3076923076923077
+Execution time is: 4145.017445325851 seconds.
+
+Corr-Coef threshold is: 0.30000000000000004, 28 features left.
+The best Sequential Backward Floating Selection model contains 5 features. Best model is SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.91
+SVM Classifier train loss = 0.09
+SVM Classifier test accuracy = 0.8846153846153846
+SVM Classifier test loss = 0.11538461538461539
+Execution time is: 344.39981412887573 seconds.
+
+Corr-Coef threshold is: 0.4, 12 features left.
+The best Sequential Backward Floating Selection model contains 3 features. Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.85
+SVM Classifier train loss = 0.15
+SVM Classifier test accuracy = 0.8846153846153846
+SVM Classifier test loss = 0.11538461538461539
+Execution time is: 46.30087208747864 seconds.
+
+Corr-Coef threshold is: 0.5, 2 features left.
+The best Sequential Backward Floating Selection model contains 2 features. Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.85
+SVM Classifier train loss = 0.15
+SVM Classifier test accuracy = 0.9230769230769231
+SVM Classifier test loss = 0.07692307692307693
+Execution time is: 1.3124845027923584 seconds.
+
+Corr-Coef threshold is: 0.6, 0 features left.
+Execution time is: 0.28868675231933594 seconds.
+
+Corr-Coef threshold is: 0.7000000000000001, 0 features left.
+Execution time is: 0.28853368759155273 seconds.
+
+Corr-Coef threshold is: 0.8, 0 features left.
+Execution time is: 0.2884786128997803 seconds.
+
+Corr-Coef threshold is: 0.9, 0 features left.
+Execution time is: 0.3123137950897217 seconds.
+

@@ -1,0 +1,71 @@
+Train data size is: 100
+Test data size is: 26
+Original feature amount is: 310
+Hybrid: Corr + SBS starts:
+Corr-Coef threshold is: 0.1, 237 features left.
+The best Sequential Backward Elimination model contains 49 features. Best model is SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 1.0
+SVM Classifier train loss = 0.0
+SVM Classifier test accuracy = 0.8076923076923077
+SVM Classifier test loss = 0.19230769230769232
+Execution time is: 17159.268538713455 seconds.
+
+Corr-Coef threshold is: 0.2, 92 features left.
+The best Sequential Backward Elimination model contains 24 features. Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.81
+SVM Classifier train loss = 0.19
+SVM Classifier test accuracy = 0.8076923076923077
+SVM Classifier test loss = 0.19230769230769232
+Execution time is: 2041.0908176898956 seconds.
+
+Corr-Coef threshold is: 0.30000000000000004, 28 features left.
+The best Sequential Backward Elimination model contains 11 features. Best model is SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.93
+SVM Classifier train loss = 0.07
+SVM Classifier test accuracy = 0.9615384615384616
+SVM Classifier test loss = 0.038461538461538464
+Execution time is: 161.40081572532654 seconds.
+
+Corr-Coef threshold is: 0.4, 12 features left.
+The best Sequential Backward Elimination model contains 3 features. Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.85
+SVM Classifier train loss = 0.15
+SVM Classifier test accuracy = 0.8846153846153846
+SVM Classifier test loss = 0.11538461538461539
+Execution time is: 30.537782192230225 seconds.
+
+Corr-Coef threshold is: 0.5, 2 features left.
+The best Sequential Backward Elimination model contains 2 features. Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.85
+SVM Classifier train loss = 0.15
+SVM Classifier test accuracy = 0.9230769230769231
+SVM Classifier test loss = 0.07692307692307693
+Execution time is: 1.458165168762207 seconds.
+
+Corr-Coef threshold is: 0.6, 0 features left.
+Execution time is: 0.3367631435394287 seconds.
+
+Corr-Coef threshold is: 0.7000000000000001, 0 features left.
+Execution time is: 0.3205296993255615 seconds.
+
+Corr-Coef threshold is: 0.8, 0 features left.
+Execution time is: 0.3192481994628906 seconds.
+
+Corr-Coef threshold is: 0.9, 0 features left.
+Execution time is: 0.3592796325683594 seconds.
+

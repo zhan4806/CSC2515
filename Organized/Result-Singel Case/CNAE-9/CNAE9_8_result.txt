@@ -1,0 +1,56 @@
+Train data size is: 864
+Test data size is: 216
+Original feature amount is: 856
+Sparse value rate is: 0.9921925007852835
+Hybrid: MI + SBFS starts:
+Mutual Information threshold is: 0.1, 37 features left.
+The best Sequential Backward Floating Selection model contains 26 features. Best model is SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.8483796296296297
+SVM Classifier train loss = 0.15162037037037038
+SVM Classifier test accuracy = 0.8101851851851852
+SVM Classifier test loss = 0.18981481481481483
+Execution time is: 19736.386923074722 seconds.
+
+Mutual Information threshold is: 0.2, 7 features left.
+The best Sequential Backward Floating Selection model contains 6 features. Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.4791666666666667
+SVM Classifier train loss = 0.5208333333333334
+SVM Classifier test accuracy = 0.46296296296296297
+SVM Classifier test loss = 0.5370370370370371
+Execution time is: 395.49221324920654 seconds.
+
+Mutual Information threshold is: 0.30000000000000004, 1 features left.
+The best Sequential Backward Floating Selection model contains 1 features. Best model is SVC(C=0.10000000000000001, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.21643518518518517
+SVM Classifier train loss = 0.7835648148148148
+SVM Classifier test accuracy = 0.16203703703703703
+SVM Classifier test loss = 0.8379629629629629
+Execution time is: 19.53712296485901 seconds.
+
+Mutual Information threshold is: 0.4, 0 features left.
+Execution time is: 8.991878509521484 seconds.
+
+Mutual Information threshold is: 0.5, 0 features left.
+Execution time is: 8.838018894195557 seconds.
+
+Mutual Information threshold is: 0.6, 0 features left.
+Execution time is: 8.813760757446289 seconds.
+
+Mutual Information threshold is: 0.7000000000000001, 0 features left.
+Execution time is: 8.780611038208008 seconds.
+
+Mutual Information threshold is: 0.8, 0 features left.
+Execution time is: 8.77031922340393 seconds.
+
+Mutual Information threshold is: 0.9, 0 features left.
+Execution time is: 8.889705657958984 seconds.
+
