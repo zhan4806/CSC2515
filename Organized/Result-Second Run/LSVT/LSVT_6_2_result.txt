@@ -1,0 +1,15 @@
+Train data size is: 100
+Test data size is: 26
+Original feature amount is: 310
+Hybrid: MI + SBS starts:
+Mutual Information threshold is: 0.2, 308 features left.
+The best Sequential Backward Elimination model contains 63 features. Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.92
+SVM Classifier train loss = 0.08
+SVM Classifier test accuracy = 0.8461538461538461
+SVM Classifier test loss = 0.15384615384615385
+Execution time is: 18704.783084869385 seconds.
+

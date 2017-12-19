@@ -1,0 +1,48 @@
+Train data size is: 864
+Test data size is: 216
+Original feature amount is: 856
+Sparse value rate is: 0.9921925007852835
+Hybrid: MI + SBS starts:
+Mutual Information threshold is: 0.1, 37 features left.
+The best Sequential Backward Elimination model contains 35 features. Best model is SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.8530092592592593
+SVM Classifier train loss = 0.14699074074074073
+SVM Classifier test accuracy = 0.8240740740740741
+SVM Classifier test loss = 0.17592592592592593
+Execution time is: 4654.476818084717 seconds.
+
+Mutual Information threshold is: 0.2, 11 features left.
+The best Sequential Backward Elimination model contains 11 features. Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.6111111111111112
+SVM Classifier train loss = 0.3888888888888889
+SVM Classifier test accuracy = 0.6018518518518519
+SVM Classifier test loss = 0.39814814814814814
+Execution time is: 371.60047674179077 seconds.
+
+Mutual Information threshold is: 0.30000000000000004, 0 features left.
+Execution time is: 5.542647838592529 seconds.
+
+Mutual Information threshold is: 0.4, 0 features left.
+Execution time is: 5.159761428833008 seconds.
+
+Mutual Information threshold is: 0.5, 0 features left.
+Execution time is: 5.084667444229126 seconds.
+
+Mutual Information threshold is: 0.6, 0 features left.
+Execution time is: 5.179535865783691 seconds.
+
+Mutual Information threshold is: 0.7000000000000001, 0 features left.
+Execution time is: 5.3388426303863525 seconds.
+
+Mutual Information threshold is: 0.8, 0 features left.
+Execution time is: 5.347515821456909 seconds.
+
+Mutual Information threshold is: 0.9, 0 features left.
+Execution time is: 5.493067502975464 seconds.
+

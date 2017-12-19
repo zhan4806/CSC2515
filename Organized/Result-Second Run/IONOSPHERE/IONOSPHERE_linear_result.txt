@@ -1,0 +1,419 @@
+Train data size is: 280
+Test data size is: 71
+Original feature amount is: 34
+The best classifier is: SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVM Classifier train accuracy = 0.9535714285714286
+SVM Classifier train loss = 0.04642857142857143
+SVM Classifier test accuracy = 0.8450704225352113
+SVM Classifier test loss = 0.15492957746478872
+Execution time is: 1.0553820133209229 seconds.
+
+The average corr-coef of this dataset is: 0.15280710399273736
+The std corr-coef of this dataset is: 0.17012885247026002
+The max corr-coef of this dataset is: 0.5414301037614051
+The min corr-coef of this dataset is: -0.13728208103097467
+
+The average Mutual Information of this dataset is: 0.302427164131161
+The std Mutual Information of this dataset is: 0.05555939264245027
+The max Mutual Information of this dataset is: 0.33665505219541736
+The min Mutual Information of this dataset is: -5.551115123125783e-06
+
+Corr-Coef threshold is: 0.1, 25 features left.
+The best classifier is: SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVM Classifier train accuracy = 0.9214285714285714
+SVM Classifier train loss = 0.07857142857142857
+SVM Classifier test accuracy = 0.8873239436619719
+SVM Classifier test loss = 0.11267605633802817
+Execution time is: 0.9273474216461182 seconds.
+
+Corr-Coef threshold is: 0.2, 12 features left.
+The best classifier is: SVC(C=0.10000000000000001, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVM Classifier train accuracy = 0.8785714285714286
+SVM Classifier train loss = 0.12142857142857143
+SVM Classifier test accuracy = 0.8732394366197183
+SVM Classifier test loss = 0.1267605633802817
+Execution time is: 0.8775794506072998 seconds.
+
+Corr-Coef threshold is: 0.30000000000000004, 5 features left.
+The best classifier is: SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVM Classifier train accuracy = 0.8642857142857143
+SVM Classifier train loss = 0.1357142857142857
+SVM Classifier test accuracy = 0.8732394366197183
+SVM Classifier test loss = 0.1267605633802817
+Execution time is: 0.4252758026123047 seconds.
+
+Corr-Coef threshold is: 0.4, 4 features left.
+The best classifier is: SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVM Classifier train accuracy = 0.8642857142857143
+SVM Classifier train loss = 0.1357142857142857
+SVM Classifier test accuracy = 0.9014084507042254
+SVM Classifier test loss = 0.09859154929577464
+Execution time is: 0.3732569217681885 seconds.
+
+Corr-Coef threshold is: 0.5, 2 features left.
+The best classifier is: SVC(C=0.10000000000000001, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVM Classifier train accuracy = 0.8214285714285714
+SVM Classifier train loss = 0.17857142857142858
+SVM Classifier test accuracy = 0.8028169014084507
+SVM Classifier test loss = 0.19718309859154928
+Execution time is: 0.3995678424835205 seconds.
+
+Corr-Coef threshold is: 0.6, 0 features left.
+Execution time is: 0.03170466423034668 seconds.
+
+Corr-Coef threshold is: 0.7000000000000001, 0 features left.
+Execution time is: 0.03352546691894531 seconds.
+
+Corr-Coef threshold is: 0.8, 0 features left.
+Execution time is: 0.032602548599243164 seconds.
+
+Corr-Coef threshold is: 0.9, 0 features left.
+Execution time is: 0.021334409713745117 seconds.
+
+Mutual Information threshold is: 0.1, 33 features left.
+The best classifier is: SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVM Classifier train accuracy = 0.9535714285714286
+SVM Classifier train loss = 0.04642857142857143
+SVM Classifier test accuracy = 0.8450704225352113
+SVM Classifier test loss = 0.15492957746478872
+Execution time is: 1.0606446266174316 seconds.
+
+Mutual Information threshold is: 0.2, 33 features left.
+The best classifier is: SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVM Classifier train accuracy = 0.9535714285714286
+SVM Classifier train loss = 0.04642857142857143
+SVM Classifier test accuracy = 0.8450704225352113
+SVM Classifier test loss = 0.15492957746478872
+Execution time is: 1.095642328262329 seconds.
+
+Mutual Information threshold is: 0.30000000000000004, 24 features left.
+The best classifier is: SVC(C=0.10000000000000001, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+SVM Classifier train accuracy = 0.875
+SVM Classifier train loss = 0.125
+SVM Classifier test accuracy = 0.8591549295774648
+SVM Classifier test loss = 0.14084507042253522
+Execution time is: 2.9320406913757324 seconds.
+
+Mutual Information threshold is: 0.4, 0 features left.
+Execution time is: 0.22487759590148926 seconds.
+
+Mutual Information threshold is: 0.5, 0 features left.
+Execution time is: 0.22796988487243652 seconds.
+
+Mutual Information threshold is: 0.6, 0 features left.
+Execution time is: 0.21593189239501953 seconds.
+
+Mutual Information threshold is: 0.7000000000000001, 0 features left.
+Execution time is: 0.2121257781982422 seconds.
+
+Mutual Information threshold is: 0.8, 0 features left.
+Execution time is: 0.21636247634887695 seconds.
+
+Mutual Information threshold is: 0.9, 0 features left.
+Execution time is: 0.21666765213012695 seconds.
+
+The best Sequential Backward Elimination model contains 14 features. 
+ Best model is SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.9464285714285714
+SVM Classifier train loss = 0.05357142857142857
+SVM Classifier test accuracy = 0.8732394366197183
+SVM Classifier test loss = 0.1267605633802817
+Execution time is: 628.694177865982 seconds.
+
+The best Sequential Backward Floating Selection model contains 13 features. 
+ Best model is SVC(C=100.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.9321428571428572
+SVM Classifier train loss = 0.06785714285714285
+SVM Classifier test accuracy = 0.9014084507042254
+SVM Classifier test loss = 0.09859154929577464
+Execution time is: 1798.4063742160797 seconds.
+
+Hybrid: Corr + SBS starts:
+Corr-Coef threshold is: 0.1, 25 features left.
+The best Sequential Backward Elimination model contains 14 features. 
+ Best model is SVC(C=100.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.9214285714285714
+SVM Classifier train loss = 0.07857142857142857
+SVM Classifier test accuracy = 0.8873239436619719
+SVM Classifier test loss = 0.11267605633802817
+Execution time is: 291.8772072792053 seconds.
+
+Corr-Coef threshold is: 0.2, 12 features left.
+The best Sequential Backward Elimination model contains 5 features. 
+ Best model is SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.8857142857142857
+SVM Classifier train loss = 0.11428571428571428
+SVM Classifier test accuracy = 0.8732394366197183
+SVM Classifier test loss = 0.1267605633802817
+Execution time is: 44.3997528553009 seconds.
+
+Corr-Coef threshold is: 0.30000000000000004, 5 features left.
+The best Sequential Backward Elimination model contains 2 features. 
+ Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.8714285714285714
+SVM Classifier train loss = 0.12857142857142856
+SVM Classifier test accuracy = 0.9295774647887324
+SVM Classifier test loss = 0.07042253521126761
+Execution time is: 4.880396842956543 seconds.
+
+Corr-Coef threshold is: 0.4, 4 features left.
+The best Sequential Backward Elimination model contains 2 features. 
+ Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.8714285714285714
+SVM Classifier train loss = 0.12857142857142856
+SVM Classifier test accuracy = 0.9295774647887324
+SVM Classifier test loss = 0.07042253521126761
+Execution time is: 2.9806840419769287 seconds.
+
+Corr-Coef threshold is: 0.5, 2 features left.
+The best Sequential Backward Elimination model contains 2 features. 
+ Best model is SVC(C=0.10000000000000001, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.8214285714285714
+SVM Classifier train loss = 0.17857142857142858
+SVM Classifier test accuracy = 0.8028169014084507
+SVM Classifier test loss = 0.19718309859154928
+Execution time is: 0.9899303913116455 seconds.
+
+Corr-Coef threshold is: 0.6, 0 features left.
+Execution time is: 0.03310036659240723 seconds.
+
+Corr-Coef threshold is: 0.7000000000000001, 0 features left.
+Execution time is: 0.008763313293457031 seconds.
+
+Corr-Coef threshold is: 0.8, 0 features left.
+Execution time is: 0.03289175033569336 seconds.
+
+Corr-Coef threshold is: 0.9, 0 features left.
+Execution time is: 0.02924370765686035 seconds.
+
+Hybrid: Corr + SBFS starts:
+Corr-Coef threshold is: 0.1, 25 features left.
+The best Sequential Backward Floating Selection model contains 15 features. 
+ Best model is SVC(C=100.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.925
+SVM Classifier train loss = 0.075
+SVM Classifier test accuracy = 0.8450704225352113
+SVM Classifier test loss = 0.15492957746478872
+Execution time is: 720.7605309486389 seconds.
+
+Corr-Coef threshold is: 0.2, 12 features left.
+The best Sequential Backward Floating Selection model contains 4 features. 
+ Best model is SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.9
+SVM Classifier train loss = 0.1
+SVM Classifier test accuracy = 0.8873239436619719
+SVM Classifier test loss = 0.11267605633802817
+Execution time is: 87.29104781150818 seconds.
+
+Corr-Coef threshold is: 0.30000000000000004, 5 features left.
+The best Sequential Backward Floating Selection model contains 3 features. 
+ Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.8714285714285714
+SVM Classifier train loss = 0.12857142857142856
+SVM Classifier test accuracy = 0.9295774647887324
+SVM Classifier test loss = 0.07042253521126761
+Execution time is: 7.541119337081909 seconds.
+
+Corr-Coef threshold is: 0.4, 4 features left.
+The best Sequential Backward Floating Selection model contains 2 features. 
+ Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.8714285714285714
+SVM Classifier train loss = 0.12857142857142856
+SVM Classifier test accuracy = 0.9295774647887324
+SVM Classifier test loss = 0.07042253521126761
+Execution time is: 3.9998393058776855 seconds.
+
+Corr-Coef threshold is: 0.5, 2 features left.
+The best Sequential Backward Floating Selection model contains 2 features. 
+ Best model is SVC(C=0.10000000000000001, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.8214285714285714
+SVM Classifier train loss = 0.17857142857142858
+SVM Classifier test accuracy = 0.8028169014084507
+SVM Classifier test loss = 0.19718309859154928
+Execution time is: 0.9969310760498047 seconds.
+
+Corr-Coef threshold is: 0.6, 0 features left.
+Execution time is: 0.01972651481628418 seconds.
+
+Corr-Coef threshold is: 0.7000000000000001, 0 features left.
+Execution time is: 0.01728510856628418 seconds.
+
+Corr-Coef threshold is: 0.8, 0 features left.
+Execution time is: 0.01281118392944336 seconds.
+
+Corr-Coef threshold is: 0.9, 0 features left.
+Execution time is: 0.02530956268310547 seconds.
+
+Hybrid: MI + SBS starts:
+Mutual Information threshold is: 0.1, 33 features left.
+The best Sequential Backward Elimination model contains 14 features. 
+ Best model is SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.9464285714285714
+SVM Classifier train loss = 0.05357142857142857
+SVM Classifier test accuracy = 0.8732394366197183
+SVM Classifier test loss = 0.1267605633802817
+Execution time is: 564.1226391792297 seconds.
+
+Mutual Information threshold is: 0.2, 33 features left.
+The best Sequential Backward Elimination model contains 14 features. 
+ Best model is SVC(C=10.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.9464285714285714
+SVM Classifier train loss = 0.05357142857142857
+SVM Classifier test accuracy = 0.8732394366197183
+SVM Classifier test loss = 0.1267605633802817
+Execution time is: 557.2197234630585 seconds.
+
+Mutual Information threshold is: 0.30000000000000004, 24 features left.
+The best Sequential Backward Elimination model contains 7 features. 
+ Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.8821428571428571
+SVM Classifier train loss = 0.11785714285714285
+SVM Classifier test accuracy = 0.8169014084507042
+SVM Classifier test loss = 0.18309859154929578
+Execution time is: 460.1289348602295 seconds.
+
+Mutual Information threshold is: 0.4, 0 features left.
+Execution time is: 0.22312259674072266 seconds.
+
+Mutual Information threshold is: 0.5, 0 features left.
+Execution time is: 0.22680091857910156 seconds.
+
+Mutual Information threshold is: 0.6, 0 features left.
+Execution time is: 0.1543290615081787 seconds.
+
+Mutual Information threshold is: 0.7000000000000001, 0 features left.
+Execution time is: 0.1543102264404297 seconds.
+
+Mutual Information threshold is: 0.8, 0 features left.
+Execution time is: 0.1984879970550537 seconds.
+
+Mutual Information threshold is: 0.9, 0 features left.
+Execution time is: 0.15027189254760742 seconds.
+
+Hybrid: MI + SBFS starts:
+Mutual Information threshold is: 0.1, 33 features left.
+The best Sequential Backward Floating Selection model contains 13 features. 
+ Best model is SVC(C=100.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.9321428571428572
+SVM Classifier train loss = 0.06785714285714285
+SVM Classifier test accuracy = 0.9014084507042254
+SVM Classifier test loss = 0.09859154929577464
+Execution time is: 1594.9851772785187 seconds.
+
+Mutual Information threshold is: 0.2, 33 features left.
+The best Sequential Backward Floating Selection model contains 13 features. 
+ Best model is SVC(C=100.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.9321428571428572
+SVM Classifier train loss = 0.06785714285714285
+SVM Classifier test accuracy = 0.9014084507042254
+SVM Classifier test loss = 0.09859154929577464
+Execution time is: 1600.0379326343536 seconds.
+
+Mutual Information threshold is: 0.30000000000000004, 24 features left.
+The best Sequential Backward Floating Selection model contains 10 features. 
+ Best model is SVC(C=100.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.8857142857142857
+SVM Classifier train loss = 0.11428571428571428
+SVM Classifier test accuracy = 0.8169014084507042
+SVM Classifier test loss = 0.18309859154929578
+Execution time is: 942.2702147960663 seconds.
+
+Mutual Information threshold is: 0.4, 0 features left.
+Execution time is: 0.21509790420532227 seconds.
+
+Mutual Information threshold is: 0.5, 0 features left.
+Execution time is: 0.19115138053894043 seconds.
+
+Mutual Information threshold is: 0.6, 0 features left.
+Execution time is: 0.21853184700012207 seconds.
+
+Mutual Information threshold is: 0.7000000000000001, 0 features left.
+Execution time is: 0.20394611358642578 seconds.
+
+Mutual Information threshold is: 0.8, 0 features left.
+Execution time is: 0.20031452178955078 seconds.
+
+Mutual Information threshold is: 0.9, 0 features left.
+Execution time is: 0.2180187702178955 seconds.
+

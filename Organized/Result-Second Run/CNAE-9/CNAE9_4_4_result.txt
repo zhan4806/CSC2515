@@ -1,0 +1,16 @@
+Train data size is: 864
+Test data size is: 216
+Original feature amount is: 856
+Sparse value rate is: 0.9921925007852835
+Hybrid: Corr + SBFS starts:
+Corr-Coef threshold is: 0.4, 3 features left.
+The best Sequential Backward Floating Selection model contains 3 features. Best model is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False).
+SVM Classifier train accuracy = 0.2847222222222222
+SVM Classifier train loss = 0.7152777777777778
+SVM Classifier test accuracy = 0.2361111111111111
+SVM Classifier test loss = 0.7638888888888888
+Execution time is: 37.957186460494995 seconds.
+
